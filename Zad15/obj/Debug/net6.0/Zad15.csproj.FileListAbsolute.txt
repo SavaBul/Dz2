@@ -1,0 +1,15 @@
+C:\Users\kiril\Dz2\Dz2\Zad15\bin\Debug\net6.0\Zad15.exe
+C:\Users\kiril\Dz2\Dz2\Zad15\bin\Debug\net6.0\Zad15.deps.json
+C:\Users\kiril\Dz2\Dz2\Zad15\bin\Debug\net6.0\Zad15.runtimeconfig.json
+C:\Users\kiril\Dz2\Dz2\Zad15\bin\Debug\net6.0\Zad15.dll
+C:\Users\kiril\Dz2\Dz2\Zad15\bin\Debug\net6.0\Zad15.pdb
+C:\Users\kiril\Dz2\Dz2\Zad15\obj\Debug\net6.0\Zad15.csproj.AssemblyReference.cache
+C:\Users\kiril\Dz2\Dz2\Zad15\obj\Debug\net6.0\Zad15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\Dz2\Dz2\Zad15\obj\Debug\net6.0\Zad15.AssemblyInfoInputs.cache
+C:\Users\kiril\Dz2\Dz2\Zad15\obj\Debug\net6.0\Zad15.AssemblyInfo.cs
+C:\Users\kiril\Dz2\Dz2\Zad15\obj\Debug\net6.0\Zad15.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Dz2\Dz2\Zad15\obj\Debug\net6.0\Zad15.dll
+C:\Users\kiril\Dz2\Dz2\Zad15\obj\Debug\net6.0\refint\Zad15.dll
+C:\Users\kiril\Dz2\Dz2\Zad15\obj\Debug\net6.0\Zad15.pdb
+C:\Users\kiril\Dz2\Dz2\Zad15\obj\Debug\net6.0\Zad15.genruntimeconfig.cache
+C:\Users\kiril\Dz2\Dz2\Zad15\obj\Debug\net6.0\ref\Zad15.dll
